@@ -20,7 +20,7 @@ This Power BI dashboard provides a comprehensive analysis of e-commerce sales da
 
 **Power BI:** For data visualization and dashboard creation.
 
-**Excel/CSV:** Used for data storage and integration with Power BI (if applicable).
+**Excel/CSV:** Used for data storage and integration with Power BI.
 
 **How to Use:-**
 
