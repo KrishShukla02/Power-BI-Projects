@@ -29,3 +29,7 @@ Download the Power BI .pbix file.
 Open it in Power BI Desktop
 
 Interact with the visualizations by applying filters or drilling down for more detailed insights.
+
+**Dashboard**
+![dashboard](https://github.com/user-attachments/assets/5f556380-d1e4-4548-80cc-1a2a7a5f67a2)
+
