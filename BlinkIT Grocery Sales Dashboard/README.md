@@ -1,8 +1,8 @@
-** Project Overview **
-
+**Project Overview**
+_________________________________________________________________________________________________________________________
 This Power BI dashboard provides a comprehensive analysis of BlinkIT's grocery sales. The dashboard is designed to help stakeholders gain insights into key sales metrics across various outlets and item types. The tool offers interactive filtering and dynamic visualizations for a holistic view of performance.
 
-** Key Features:**
+**Key Features:**
 
 **1. KPIs:** Quick view of critical metrics such as Total Sales, Average Sales, Number of Items Sold, and Average Rating.
 
@@ -18,6 +18,22 @@ This Power BI dashboard provides a comprehensive analysis of BlinkIT's grocery s
 
 **Technologies Used:-**
 
-**Power BI:** For data visualization and dashboard creation.
+**Power BI:** For data cleaning, data visualization and dashboard creation.
 
 **Excel/CSV:** Used for data storage and integration with Power BI.
+
+**Visualizations:**
+
+**1. Pie Charts:** Represent data on Outlet Size and Outlet Type distribution.
+
+**2.Bar Charts:** Used for item-type sales and fat content comparison across outlets.
+
+**3.Scatter Plot:** Visualizes the relationship between total sales and the number of items for different categories.
+
+**4.KPI Tiles:** High-level overview of total sales, average sales, number of items, and average rating.
+
+and many more.
+
+**Dashboard**
+
+![dashboard](https://github.com/user-attachments/assets/736af918-26c4-4a89-aa6c-8cc6e5f66e79)
