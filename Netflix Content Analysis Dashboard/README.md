@@ -24,9 +24,14 @@ The dashboard is designed for easy understanding and interactivity, making it us
 
 **1.Clone the Repository:**
 
+
+
 **2.Open the Power BI file:** Download the Power BI file from the repository and open it using Power BI Desktop.
 
 **3.Dataset Source:** Make sure the dataset is connected properly. If using a local dataset, replace the dataset file path in Power BI. Also clean the dataset if required for future enhancements.
 
 **4. Interactivity:** Once loaded, use the filters and slicers to explore the dashboard in different ways.
 
+**Dashboard**
+
+![dashboard](https://github.com/user-attachments/assets/6b8cb9ca-6a78-4f3e-8656-469371812e99)
