@@ -34,4 +34,5 @@ The dashboard is designed for easy understanding and interactivity, making it us
 
 **Dashboard**
 
-![dashboard](https://github.com/user-attachments/assets/6b8cb9ca-6a78-4f3e-8656-469371812e99)
+![dashboard](https://github.com/user-attachments/assets/69c6fa8e-5a12-434b-919d-ab88c477d090)
+
